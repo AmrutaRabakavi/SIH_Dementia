@@ -1,0 +1,15 @@
+1. Audio File: C:\Users\Amruta\AppData\Local\Temp\gradio\c66db4c8805d4848d073abdc81ac1b48a108f71419e98e5aeed7fd5a98bef930\audio.wav
+Transcription:  Hello, I am Baga.
+Language: en
+Created At: 2025-09-25 18:04:21.552151
+----------------------------------------
+2. Audio File: C:\Users\Amruta\AppData\Local\Temp\gradio\42d4adea6dcfd477a12ad30a3f11daca83dbb4768e7ca3183df751e35bc20e3a\audio.wav
+Transcription:  Hi Myself have come.
+Language: en
+Created At: 2025-09-25 18:04:58.428805
+----------------------------------------
+3. Audio File: C:\Users\Amruta\AppData\Local\Temp\gradio\51bab8281f7babe67b5cf52d470514ee2b6ec4c902cd8177d4bb0491e2e127b4\audio.wav
+Transcription:  Hi, hi, hi, hi.
+Language: en
+Created At: 2025-09-25 18:06:31.211870
+----------------------------------------

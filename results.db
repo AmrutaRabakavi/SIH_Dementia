@@ -1,0 +1,29 @@
+import sqlite3
+
+# Initialize database
+def init_db():
+    conn = sqlite3.connect("results.db")
+    cursor = conn.cursor()
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS transcriptions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            timestamp TEXT,
+            language TEXT,
+            audio_file TEXT,
+            transcription TEXT
+        )
+    """)
+    conn.commit()
+    conn.close()
+
+# Save transcription into DB
+def save_to_db(audio_file, transcription, language):
+    conn = sqlite3.connect("results.db")
+    cursor = conn.cursor()
+    from datetime import datetime
+    cursor.execute("""
+        INSERT INTO transcriptions (timestamp, language, audio_file, transcription)
+        VALUES (?, ?, ?, ?)
+    """, (datetime.now().strftime("%Y-%m-%d %H:%M:%S"), language, str(audio_file), transcription))
+    conn.commit()
+    conn.close()

@@ -1,0 +1,5 @@
+1. Audio File: C:\Users\Amruta\AppData\Local\Temp\gradio\54bed549200dd77b6a493e2d4c71fb9cc1f8fd58d196aba731aba7884f972b6f\Test.mp3.mp3
+Transcription:  Hello and welcome. This is your text to voice AI speaking.
+Language: en
+Created At: 2025-09-25 18:55:51.606501
+----------------------------------------

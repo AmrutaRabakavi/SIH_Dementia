@@ -1,0 +1,5 @@
+1. Audio File: C:\Users\Amruta\AppData\Local\Temp\gradio\c7ac9af97546df8cc5c96b875cf33cff83ffa1a71c8e6563a8443c02e994209d\audio.wav
+Transcription:  Hello, hello, hello, hello, hello
+Language: en
+Created At: 2025-09-25 18:05:38.064823
+----------------------------------------

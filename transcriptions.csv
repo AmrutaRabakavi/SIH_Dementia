@@ -1,0 +1,15 @@
+ID,User Name,Email,Audio File,Transcription,Language,Created At
+14,AAA,a@gmail.com,C:\Users\Amruta\AppData\Local\Temp\gradio\54bed549200dd77b6a493e2d4c71fb9cc1f8fd58d196aba731aba7884f972b6f\Test.mp3.mp3, Hello and welcome. This is your text to voice AI speaking.,en,2025-09-25 18:55:51.606501
+13,Test User,test@example.com,Test.mp3.mp3, Hello and welcome. This is your text to voice AI speaking.,en,2025-09-25 18:54:53.513632
+12,Test User,test@example.com,Test.mp3.mp3, Hello and welcome. This is your text to voice AI speaking.,en,2025-09-25 18:51:13.126011
+11,Test User,test@example.com,Test.mp3.mp3, Hello and welcome. This is your text to voice AI speaking.,en,2025-09-25 18:49:47.335448
+10,ABC,abc,C:\Users\Amruta\AppData\Local\Temp\gradio\54bed549200dd77b6a493e2d4c71fb9cc1f8fd58d196aba731aba7884f972b6f\Test.mp3.mp3, Hello and welcome. This is your text to voice AI speaking.,en,2025-09-25 18:46:15.741600
+9,Test User,test@example.com,Test.mp3.mp3, Hello and welcome. This is your text to voice AI speaking.,en,2025-09-25 18:45:05.674584
+8,bhag,bha@gmail.com,C:\Users\Amruta\AppData\Local\Temp\gradio\51bab8281f7babe67b5cf52d470514ee2b6ec4c902cd8177d4bb0491e2e127b4\audio.wav," Hi, hi, hi, hi.",en,2025-09-25 18:06:31.211870
+7,keerti,kirti@gmail.com,C:\Users\Amruta\AppData\Local\Temp\gradio\c7ac9af97546df8cc5c96b875cf33cff83ffa1a71c8e6563a8443c02e994209d\audio.wav," Hello, hello, hello, hello, hello",en,2025-09-25 18:05:38.064823
+6,bhag,bha@gmail.com,C:\Users\Amruta\AppData\Local\Temp\gradio\42d4adea6dcfd477a12ad30a3f11daca83dbb4768e7ca3183df751e35bc20e3a\audio.wav, Hi Myself have come.,en,2025-09-25 18:04:58.428805
+5,bhag,bha@gmail.com,C:\Users\Amruta\AppData\Local\Temp\gradio\c66db4c8805d4848d073abdc81ac1b48a108f71419e98e5aeed7fd5a98bef930\audio.wav," Hello, I am Baga.",en,2025-09-25 18:04:21.552151
+4,sangeeta,san@gmail.com,C:\Users\Amruta\AppData\Local\Temp\gradio\54bed549200dd77b6a493e2d4c71fb9cc1f8fd58d196aba731aba7884f972b6f\Test.mp3.mp3, Hello and welcome. This is your text to voice AI speaking.,en,2025-09-25 17:59:32.326020
+3,Amruta,amruta@gmail.com,C:\Users\Amruta\AppData\Local\Temp\gradio\54bed549200dd77b6a493e2d4c71fb9cc1f8fd58d196aba731aba7884f972b6f\Test.mp3.mp3, Hello and welcome. This is your text to voice AI speaking.,en,2025-09-25 17:56:13.976272
+2,Test User,test@example.com,C:\Users\Amruta\AppData\Local\Temp\gradio\54bed549200dd77b6a493e2d4c71fb9cc1f8fd58d196aba731aba7884f972b6f\Test.mp3.mp3, Hello and welcome. This is your text to voice AI speaking.,en,2025-09-25 17:53:38.499969
+1,Test User,test@example.com,Test.mp3.mp3, Hello and welcome. This is your text to voice AI speaking.,en,2025-09-25 17:46:06.439130

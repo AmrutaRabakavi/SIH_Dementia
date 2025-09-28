@@ -1,0 +1,6 @@
+* Running on local URL:  http://127.0.0.1:7864
+* To create a public link, set `share=True` in `launch()`.
+Keyboard interruption in main thread... closing server.
+* Running on local URL:  http://127.0.0.1:7863
+* To create a public link, set `share=True` in `launch()`.
+Keyboard interruption in main thread... closing server.
